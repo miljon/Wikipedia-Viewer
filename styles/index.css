@@ -6,12 +6,16 @@ body, html {
     height: 100%;
 }
 
-/* .center {
-        height: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-} */
+.search-row{
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 20px;
+    border: 2px;
+    border-color: cadetblue;
+    border-style: solid;
+    background: whitesmoke;
+    border-radius: 8px;
+}
 
 .top-bar{
     padding-top: 20px;
