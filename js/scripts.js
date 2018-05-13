@@ -1,5 +1,11 @@
 $(document).ready(function () {
 
-    $('.celcAndFarButton').click(function () {
+
+    $('#wikipediaSearchButton').click(function () {
+        
+    });
+
+    $('#wikipediaRandomButton').click(function () {
+
     });
 });
