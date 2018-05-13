@@ -1,0 +1,35 @@
+
+
+
+
+body, html {
+    height: 100%;
+}
+
+/* .center {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+} */
+
+.top-bar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.weather-info-box{
+    margin-top: 100px;
+}
+
+#main{
+    background-image: url("/resources/wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.myText{
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1.00px; 
+   }
